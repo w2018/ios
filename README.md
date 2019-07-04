@@ -1,9 +1,12 @@
 # Safari浏览器 打开链接
-itms-services://?action=download-manifest&url=
 
-plist文件
+```
+itms-services://?action=download-manifest&url=
 ```
 
+plist文件
+
+```
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -35,5 +38,4 @@ plist文件
     </array>
 </dict>
 </plist>
-
 ```
