@@ -1,7 +1,7 @@
 # Safari浏览器 打开链接
 
 ```
-itms-services://?action=download-manifest&url=
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/w2018/ios/master/download.plist
 ```
 
 plist文件
