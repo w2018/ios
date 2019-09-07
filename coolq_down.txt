@@ -1,1 +1,1 @@
-no|1.0.3|http://43.248.20.238:18968/SocketTool.exe
+yes|1.0.3|http://43.248.20.238:18968/SocketTool.exe
